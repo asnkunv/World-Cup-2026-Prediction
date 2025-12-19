@@ -1,0 +1,212 @@
+number,country,points,last_three_games
+1,Spain,1885.36,W-W-W
+2,Argentina,1867.09,W-L-W
+3,France,1862.03,W-W-D
+4,England,1813.32,W-W-L
+5,Portugal,1777.69,W-W-W
+6,Brazil,1770.53,D-W-W
+7,Netherlands,1758.18,W-W-W
+8,Belgium,1736.38,W-D-W
+9,Italy,1716.98,W-W-D
+10,Germany,1707.51,W-W-W
+11,Croatia,1702.58,L-W-D
+12,Japan,1695.32,W-W-L
+13,Uruguay,1689.47,W-D-W
+14,Colombia,1685.22,W-W-W
+15,Morocco,1681.15,W-W-D
+16,USA,1678.93,W-L-W
+17,Mexico,1674.38,W-W-L
+18,Senegal,1672.81,L-W-W
+19,South Korea,1669.25,D-L-W
+20,Denmark,1666.74,W-W-D
+21,Switzerland,1663.18,D-W-W
+22,Austria,1659.42,W-W-W
+23,Australia,1654.37,W-L-W
+24,Poland,1651.28,W-D-L
+25,Ukraine,1648.93,W-W-D
+26,Iran,1644.75,W-W-W
+27,Nigeria,1641.22,L-W-W
+28,Sweden,1638.46,W-D-W
+29,Turkey,1635.17,W-W-W
+30,Wales,1631.89,L-W-D
+31,Czech Republic,1628.52,W-L-W
+32,Algeria,1625.34,D-W-L
+33,Hungary,1622.18,W-W-D
+34,Norway,1618.92,W-D-W
+35,Serbia,1615.73,W-W-L
+36,Canada,1612.44,W-W-W
+37,Tunisia,1609.27,D-W-W
+38,Chile,1606.15,L-W-D
+39,Egypt,1602.88,W-W-W
+40,Mali,1599.64,W-D-W
+41,Costa Rica,1596.42,W-W-L
+42,Peru,1593.28,D-L-W
+43,Scotland,1590.11,L-W-D
+44,Ecuador,1586.95,W-W-W
+45,Cameroon,1583.72,W-L-W
+46,Romania,1580.54,W-W-D
+47,Burkina Faso,1577.36,W-D-W
+48,Slovakia,1574.19,W-L-W
+49,Panama,1571.02,W-W-W
+50,Greece,1567.84,D-W-W
+51,Jamaica,1564.68,L-W-D
+52,South Africa,1561.51,W-W-W
+53,Qatar,1558.33,W-D-L
+54,Venezuela,1555.16,W-W-D
+55,Iraq,1551.98,D-W-W
+56,Iceland,1548.81,L-W-L
+57,Paraguay,1545.64,W-D-W
+58,Finland,1542.46,W-W-L
+59,Ivory Coast,1539.29,W-W-W
+60,Albania,1536.11,W-L-D
+61,Northern Ireland,1532.94,D-W-W
+62,Jordan,1529.77,W-W-L
+63,Saudi Arabia,1526.59,L-W-W
+64,Slovenia,1523.42,W-D-W
+65,United Arab Emirates,1520.24,W-W-D
+66,Congo DR,1517.07,W-W-W
+67,Honduras,1513.9,L-D-W
+68,Ghana,1510.72,W-L-W
+69,Uzbekistan,1507.55,W-W-W
+70,Bolivia,1504.38,D-W-L
+71,Guinea,1501.2,W-W-D
+72,Israel,1498.03,W-D-W
+73,Bosnia and Herzegovina,1494.85,L-W-W
+74,Luxembourg,1491.68,W-W-W
+75,North Macedonia,1488.51,W-L-D
+76,Cape Verde,1485.33,W-W-W
+77,Oman,1482.16,D-W-L
+78,Gabon,1478.98,W-D-W
+79,Thailand,1475.81,L-W-W
+80,El Salvador,1472.64,D-L-W
+81,Montenegro,1469.46,W-W-L
+82,Bahrain,1466.29,L-W-D
+83,Armenia,1463.11,W-D-W
+84,China,1459.94,L-L-W
+85,Zambia,1456.77,W-W-D
+86,Uganda,1453.59,W-L-W
+87,Georgia,1450.42,W-W-W
+88,Trinidad and Tobago,1447.24,L-D-W
+89,Vietnam,1444.07,W-W-L
+90,Curaçao,1440.9,D-W-W
+91,Benin,1437.72,W-L-D
+92,Haiti,1434.55,L-W-W
+93,Kenya,1431.37,W-D-L
+94,Madagascar,1428.2,W-W-D
+95,Korea DPR,1425.03,W-W-W
+96,Mauritania,1421.85,D-W-L
+97,Belarus,1418.68,W-L-W
+98,India,1415.5,L-W-D
+99,Equatorial Guinea,1412.33,W-W-L
+100,Syria,1409.16,W-D-W
+101,Palestine,1405.98,D-W-W
+102,New Zealand,1402.81,W-W-W
+103,Cyprus,1399.63,L-L-W
+104,Lebanon,1396.46,W-W-D
+105,Rwanda,1393.29,W-D-L
+106,Angola,1390.11,W-W-W
+107,Tajikistan,1386.94,W-L-D
+108,Nicaragua,1383.76,D-W-W
+109,Libya,1380.59,L-W-L
+110,Azerbaijan,1377.42,W-D-W
+111,Mozambique,1374.24,W-W-L
+112,Kosovo,1371.07,W-W-D
+113,Kazakhstan,1367.89,W-L-W
+114,Guinea-Bissau,1364.72,L-D-W
+115,Estonia,1361.55,W-W-W
+116,Tanzania,1358.37,D-W-L
+117,Namibia,1355.2,W-W-D
+118,Sierra Leone,1352.02,W-L-W
+119,Guatemala,1348.85,W-W-L
+120,Malawi,1345.68,D-W-W
+121,Niger,1342.5,L-W-D
+122,Bulgaria,1339.33,W-D-L
+123,Latvia,1336.15,W-W-W
+124,Zimbabwe,1332.98,W-L-W
+125,Central African Republic,1329.81,L-W-D
+126,Myanmar,1326.63,W-D-W
+127,Comoros,1323.46,W-W-L
+128,Kyrgyzstan,1320.28,D-W-W
+129,Sudan,1317.11,L-L-W
+130,Togo,1313.94,W-W-D
+131,Niger,1310.76,W-L-W
+132,Congo,1307.59,D-W-L
+133,Suriname,1304.41,W-W-W
+134,South Sudan,1301.24,W-D-W
+135,Ethiopia,1298.07,L-W-W
+136,Philippines,1294.89,W-W-L
+137,Lithuania,1291.72,W-D-D
+138,Tanzania,1288.54,W-L-W
+139,Turkmenistan,1285.37,D-W-W
+140,Hong Kong,1282.2,L-W-D
+141,Dominican Republic,1279.02,W-L-W
+142,Afghanistan,1275.85,W-W-L
+143,Liberia,1272.67,D-W-D
+144,Burundi,1269.5,W-L-W
+145,Singapore,1266.33,L-W-W
+146,Yemen,1263.15,D-D-L
+147,St Kitts and Nevis,1259.98,W-W-W
+148,Botswana,1256.8,W-D-L
+149,Mauritius,1253.63,L-W-W
+150,Lesotho,1250.46,W-W-D
+151,Antigua and Barbuda,1247.28,D-W-L
+152,Solomon Islands,1244.11,W-L-W
+153,Guyana,1240.93,W-W-D
+154,Malaysia,1237.76,L-W-W
+155,Gambia,1234.59,W-D-L
+156,Eswatini,1231.41,W-W-W
+157,Chinese Taipei,1228.24,D-L-W
+158,Tahiti,1225.06,W-W-L
+159,Vanuatu,1221.89,L-W-D
+160,Puerto Rico,1218.72,W-D-W
+161,Cuba,1215.54,D-W-L
+162,New Caledonia,1212.37,W-W-W
+163,Indonesia,1209.19,W-L-W
+164,Maldives,1206.02,L-D-W
+165,Fiji,1202.85,W-W-D
+166,Faroe Islands,1199.67,W-W-W
+167,Guadeloupe,1196.5,L-W-L
+168,Malta,1193.32,W-D-W
+169,Papua New Guinea,1190.15,D-W-L
+170,Barbados,1186.98,W-L-W
+171,Andorra,1183.8,L-W-D
+172,Grenada,1180.63,W-W-L
+173,St Lucia,1177.45,D-W-W
+174,Montserrat,1174.28,L-L-W
+175,Chad,1171.11,W-D-L
+176,Cambodia,1167.93,W-W-W
+177,Belize,1164.76,L-W-D
+178,Nepal,1161.58,W-L-W
+179,Dominica,1158.41,D-W-L
+180,Bangladesh,1155.24,L-D-W
+181,American Samoa,1152.06,W-W-W
+182,Mongolia,1148.89,D-W-L
+183,Cook Islands,1145.71,W-L-W
+184,Samoa,1142.54,L-W-D
+185,Brunei,1139.37,W-D-W
+186,São Tomé and Príncipe,1136.19,W-W-L
+187,Laos,1133.02,D-W-W
+188,Bhutan,1129.84,L-W-L
+189,Macau,1126.67,W-D-W
+190,Aruba,1123.5,W-W-D
+191,Sri Lanka,1120.32,L-L-W
+192,Eritrea,1117.15,W-W-W
+193,Cayman Islands,1113.97,D-W-L
+194,Djibouti,1110.8,W-L-W
+195,Tonga,1107.63,L-W-D
+196,Timor-Leste,1104.45,W-D-W
+197,Pakistan,1101.28,L-W-L
+198,Guam,1098.1,W-W-W
+199,Somalia,1094.93,D-L-W
+200,Seychelles,1091.76,W-W-D
+201,St Vincent and the Grenadines,1088.58,L-W-W
+202,Turks and Caicos Islands,1085.41,W-D-L
+203,US Virgin Islands,1082.23,D-W-W
+204,British Virgin Islands,1079.06,L-L-W
+205,Anguilla,1075.89,W-W-L
+206,Bahamas,1072.71,D-W-D
+207,Gibraltar,1069.54,W-L-W
+208,San Marino,1066.36,L-D-L
+209,Liechtenstein,1063.19,W-W-W
+210,South Sudan,1060.02,D-L-W
+211,Liechtenstein,1056.84,L-W-D
