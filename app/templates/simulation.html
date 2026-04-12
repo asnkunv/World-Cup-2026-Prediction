@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>World Cup 2026 Predictions</title>
+</head>
+<body>
+    <h1>FIFA World Cup 2026 Predictions</h1>
+
+    <h2>Top Favorites to Win</h2>
+    <table border="1">
+        <tr>
+            <th>Team</th>
+            <th>Champion %</th>
+            <th>Runner-up %</th>
+            <th>Third Place %</th>
+        </tr>
+        {% for team, prob in sorted_teams %}
+        <tr>
+            <td>{{ team.title() }}</td>
+            <td>{{ "%.2f"|format(prob) }}%</td>
+            <td>{{ "%.2f"|format(results.runner_up.get(team, 0)) }}%</td>
+            <td>{{ "%.2f"|format(results.third_place.get(team, 0)) }}%</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
